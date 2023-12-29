@@ -5,7 +5,8 @@ Create functions for physics class students to calculate fundamental physical pr
 
 
 ## Files
-TBA
+- `script.py`:
+- `README.md`:
 
 
 ## Steps
